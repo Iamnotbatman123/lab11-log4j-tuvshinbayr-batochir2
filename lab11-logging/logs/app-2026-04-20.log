@@ -1,0 +1,156 @@
+2026-04-20 14:58:52 [com.example.Main.main()] DEBUG BankAccount:20 - BankAccount initialized with balance: 1000.0
+2026-04-20 14:58:52 [com.example.Main.main()] DEBUG BankAccount:36 - Deposit - Pre-balance: 1000.0, Post-balance: 1700.0
+2026-04-20 14:58:52 [com.example.Main.main()] INFO  BankAccount:37 - Successfully deposited 700.0. New balance=1700.0
+2026-04-20 14:58:52 [com.example.Main.main()] DEBUG BankAccount:60 - Withdraw - Pre-balance: 1700.0, Post-balance: 1600.0
+2026-04-20 14:58:52 [com.example.Main.main()] INFO  BankAccount:61 - Successfully withdrew 100.0. New balance=1600.0
+2026-04-20 14:58:52 [com.example.Main.main()] ERROR BankAccount:52 - Insufficient funds: requested 2000.0, available 1600.0
+2026-04-20 14:58:52 [com.example.Main.main()] WARN  BankAccount:28 - Invalid input: amount -36.0 is negative
+2026-04-20 14:58:52 [com.example.Main.main()] FATAL BankAccount:75 - FATAL: System configuration error or database connection failure!
+2026-04-20 15:00:22 [com.example.Main.main()] DEBUG BankAccount:20 - BankAccount initialized with balance: 1000.0
+2026-04-20 15:00:22 [com.example.Main.main()] DEBUG BankAccount:36 - Deposit - Pre-balance: 1000.0, Post-balance: 1700.0
+2026-04-20 15:00:22 [com.example.Main.main()] INFO  BankAccount:37 - Successfully deposited 700.0. New balance=1700.0
+2026-04-20 15:00:22 [com.example.Main.main()] DEBUG BankAccount:60 - Withdraw - Pre-balance: 1700.0, Post-balance: 1600.0
+2026-04-20 15:00:22 [com.example.Main.main()] INFO  BankAccount:61 - Successfully withdrew 100.0. New balance=1600.0
+2026-04-20 15:00:22 [com.example.Main.main()] ERROR BankAccount:52 - Insufficient funds: requested 2000.0, available 1600.0
+2026-04-20 15:00:22 [com.example.Main.main()] WARN  BankAccount:28 - Invalid input: amount -36.0 is negative
+2026-04-20 15:00:22 [com.example.Main.main()] FATAL BankAccount:75 - FATAL: System configuration error or database connection failure!
+2026-04-20 15:02:47 [com.example.Main.main()] DEBUG BankAccount:20 - BankAccount initialized with balance: 1000.0
+2026-04-20 15:02:47 [com.example.Main.main()] DEBUG BankAccount:36 - Deposit - Pre-balance: 1000.0, Post-balance: 1700.0
+2026-04-20 15:02:47 [com.example.Main.main()] INFO  BankAccount:37 - Successfully deposited 700.0. New balance=1700.0
+2026-04-20 15:02:47 [com.example.Main.main()] DEBUG BankAccount:60 - Withdraw - Pre-balance: 1700.0, Post-balance: 1600.0
+2026-04-20 15:02:47 [com.example.Main.main()] INFO  BankAccount:61 - Successfully withdrew 100.0. New balance=1600.0
+2026-04-20 15:02:47 [com.example.Main.main()] ERROR BankAccount:52 - Insufficient funds: requested 2000.0, available 1600.0
+2026-04-20 15:02:47 [com.example.Main.main()] WARN  BankAccount:28 - Invalid input: amount -36.0 is negative
+2026-04-20 15:02:47 [com.example.Main.main()] FATAL BankAccount:75 - FATAL: System configuration error or database connection failure!
+2026-04-20 16:19:15 [com.example.Main.main()] DEBUG BankAccount:20 - BankAccount initialized with balance: 1000.0
+2026-04-20 16:19:31 [com.example.Main.main()] DEBUG BankAccount:20 - BankAccount initialized with balance: 1000.0
+2026-04-20 16:20:02 [com.example.Main.main()] DEBUG BankAccount:20 - BankAccount initialized with balance: 1000.0
+2026-04-20 16:20:40 [com.example.Main.main()] DEBUG BankAccount:20 - BankAccount initialized with balance: 1000.0
+2026-04-20 16:20:40 [com.example.Main.main()] DEBUG BankAccount:36 - Deposit - Pre-balance: 1000.0, Post-balance: 1700.0
+2026-04-20 16:20:40 [com.example.Main.main()] INFO  BankAccount:37 - Successfully deposited 700.0. New balance=1700.0
+2026-04-20 16:20:40 [com.example.Main.main()] DEBUG BankAccount:60 - Withdraw - Pre-balance: 1700.0, Post-balance: 1600.0
+2026-04-20 16:20:40 [com.example.Main.main()] INFO  BankAccount:61 - Successfully withdrew 100.0. New balance=1600.0
+2026-04-20 16:20:40 [com.example.Main.main()] ERROR BankAccount:52 - Insufficient funds: requested 2000.0, available 1600.0
+2026-04-20 16:20:40 [com.example.Main.main()] WARN  BankAccount:28 - Invalid input: amount -36.0 is negative
+2026-04-20 16:20:40 [com.example.Main.main()] FATAL BankAccount:75 - FATAL: System configuration error or database connection failure!
+2026-04-20 16:34:03 [com.example.Main.main()] DEBUG BankAccount:20 - BankAccount initialized with balance: 1000.0
+2026-04-20 16:38:18 [com.example.Main.main()] DEBUG BankAccount:20 - BankAccount initialized with balance: 1000.0
+2026-04-20 16:38:18 [com.example.Main.main()] DEBUG Customer:20 - Customer created: namebatman@gotham.com email{}Batman
+2026-04-20 16:38:18 [com.example.Main.main()] DEBUG Customer:31 - Attempting to extract email
+2026-04-20 16:38:18 [com.example.Main.main()] DEBUG BankAccount:36 - Deposit - Pre-balance: 1000.0, Post-balance: 1700.0
+2026-04-20 16:38:18 [com.example.Main.main()] INFO  BankAccount:37 - Successfully deposited 700.0. New balance=1700.0
+2026-04-20 16:38:18 [com.example.Main.main()] DEBUG BankAccount:60 - Withdraw - Pre-balance: 1700.0, Post-balance: 1600.0
+2026-04-20 16:38:18 [com.example.Main.main()] INFO  BankAccount:61 - Successfully withdrew 100.0. New balance=1600.0
+2026-04-20 16:38:18 [com.example.Main.main()] ERROR BankAccount:52 - Insufficient funds: requested 2000.0, available 1600.0
+2026-04-20 16:38:18 [com.example.Main.main()] WARN  BankAccount:28 - Invalid input: amount -36.0 is negative
+2026-04-20 16:38:18 [com.example.Main.main()] FATAL BankAccount:75 - FATAL: System configuration error or database connection failure!
+2026-04-20 17:01:48 [com.example.Main.main()] DEBUG BankAccount:20 - BankAccount initialized with balance: 1000.0
+2026-04-20 17:01:48 [com.example.Main.main()] DEBUG Customer:20 - Customer created: name=batman@gotham.com email={}Batman
+2026-04-20 17:01:48 [com.example.Main.main()] DEBUG Customer:36 - Attempting to extract email
+2026-04-20 17:01:48 [com.example.Main.main()] DEBUG BankAccount:36 - Deposit - Pre-balance: 1000.0, Post-balance: 1700.0
+2026-04-20 17:01:48 [com.example.Main.main()] INFO  BankAccount:37 - Successfully deposited 700.0. New balance=1700.0
+2026-04-20 17:01:48 [com.example.Main.main()] DEBUG BankAccount:60 - Withdraw - Pre-balance: 1700.0, Post-balance: 1600.0
+2026-04-20 17:01:48 [com.example.Main.main()] INFO  BankAccount:61 - Successfully withdrew 100.0. New balance=1600.0
+2026-04-20 17:01:48 [com.example.Main.main()] ERROR BankAccount:52 - Insufficient funds: requested 2000.0, available 1600.0
+2026-04-20 17:01:48 [com.example.Main.main()] WARN  BankAccount:28 - Invalid input: amount -36.0 is negative
+2026-04-20 17:01:48 [com.example.Main.main()] FATAL BankAccount:75 - FATAL: System configuration error or database connection failure!
+2026-04-20 17:02:43 [com.example.Main.main()] DEBUG BankAccount:20 - BankAccount initialized with balance: 1000.0
+2026-04-20 17:02:43 [com.example.Main.main()] DEBUG Customer:20 - Customer created: name=batman@gotham.com email={}Batman
+2026-04-20 17:02:43 [com.example.Main.main()] DEBUG Customer:36 - Attempting to extract email
+2026-04-20 17:02:43 [com.example.Main.main()] DEBUG BankAccount:36 - Deposit - Pre-balance: 1000.0, Post-balance: 1700.0
+2026-04-20 17:02:43 [com.example.Main.main()] INFO  BankAccount:37 - Successfully deposited 700.0. New balance=1700.0
+2026-04-20 17:02:43 [com.example.Main.main()] DEBUG BankAccount:60 - Withdraw - Pre-balance: 1700.0, Post-balance: 1600.0
+2026-04-20 17:02:43 [com.example.Main.main()] INFO  BankAccount:61 - Successfully withdrew 100.0. New balance=1600.0
+2026-04-20 17:02:43 [com.example.Main.main()] ERROR BankAccount:52 - Insufficient funds: requested 2000.0, available 1600.0
+2026-04-20 17:02:43 [com.example.Main.main()] WARN  BankAccount:28 - Invalid input: amount -36.0 is negative
+2026-04-20 17:02:43 [com.example.Main.main()] FATAL BankAccount:75 - FATAL: System configuration error or database connection failure!
+2026-04-20 17:04:26 [com.example.Main.main()] DEBUG BankAccount:20 - BankAccount initialized with balance: 1000.0
+2026-04-20 17:04:26 [com.example.Main.main()] DEBUG Customer:20 - Customer created: name=batman@gotham.com email={}Batman
+2026-04-20 17:04:26 [com.example.Main.main()] DEBUG Customer:36 - Attempting to extract email
+2026-04-20 17:04:26 [com.example.Main.main()] DEBUG BankAccount:36 - Deposit - Pre-balance: 1000.0, Post-balance: 1700.0
+2026-04-20 17:04:26 [com.example.Main.main()] INFO  BankAccount:37 - Successfully deposited 700.0. New balance=1700.0
+2026-04-20 17:04:26 [com.example.Main.main()] DEBUG BankAccount:60 - Withdraw - Pre-balance: 1700.0, Post-balance: 1600.0
+2026-04-20 17:04:26 [com.example.Main.main()] INFO  BankAccount:61 - Successfully withdrew 100.0. New balance=1600.0
+2026-04-20 17:04:26 [com.example.Main.main()] ERROR BankAccount:52 - Insufficient funds: requested 2000.0, available 1600.0
+2026-04-20 17:04:26 [com.example.Main.main()] WARN  BankAccount:28 - Invalid input: amount -36.0 is negative
+2026-04-20 17:04:26 [com.example.Main.main()] FATAL BankAccount:75 - FATAL: System configuration error or database connection failure!
+2026-04-20 17:09:26 [com.example.Main.main()] DEBUG BankAccount:20 - BankAccount initialized with balance: 1000.0
+2026-04-20 17:09:26 [com.example.Main.main()] DEBUG Customer:20 - Customer created: name=batman@gotham.com email={}Batman
+2026-04-20 17:09:26 [com.example.Main.main()] DEBUG Customer:36 - Attempting to extract email
+2026-04-20 17:09:26 [com.example.Main.main()] DEBUG BankAccount:36 - Deposit - Pre-balance: 1000.0, Post-balance: 1700.0
+2026-04-20 17:09:26 [com.example.Main.main()] INFO  BankAccount:37 - Successfully deposited 700.0. New balance=1700.0
+2026-04-20 17:09:26 [com.example.Main.main()] DEBUG BankAccount:60 - Withdraw - Pre-balance: 1700.0, Post-balance: 1600.0
+2026-04-20 17:09:26 [com.example.Main.main()] INFO  BankAccount:61 - Successfully withdrew 100.0. New balance=1600.0
+2026-04-20 17:09:26 [com.example.Main.main()] ERROR BankAccount:52 - Insufficient funds: requested 2000.0, available 1600.0
+2026-04-20 17:09:26 [com.example.Main.main()] WARN  BankAccount:28 - Invalid input: amount -36.0 is negative
+2026-04-20 17:09:26 [com.example.Main.main()] FATAL BankAccount:75 - FATAL: System configuration error or database connection failure!
+2026-04-20 17:09:43 [com.example.Main.main()] DEBUG BankAccount:20 - BankAccount initialized with balance: 1000.0
+2026-04-20 17:09:43 [com.example.Main.main()] DEBUG Customer:20 - Customer created: name=batman@gotham.com email={}Batman
+2026-04-20 17:09:43 [com.example.Main.main()] DEBUG Customer:36 - Attempting to extract email
+2026-04-20 17:09:43 [com.example.Main.main()] DEBUG BankAccount:36 - Deposit - Pre-balance: 1000.0, Post-balance: 1700.0
+2026-04-20 17:09:43 [com.example.Main.main()] INFO  BankAccount:37 - Successfully deposited 700.0. New balance=1700.0
+2026-04-20 17:09:43 [com.example.Main.main()] DEBUG BankAccount:60 - Withdraw - Pre-balance: 1700.0, Post-balance: 1600.0
+2026-04-20 17:09:43 [com.example.Main.main()] INFO  BankAccount:61 - Successfully withdrew 100.0. New balance=1600.0
+2026-04-20 17:09:43 [com.example.Main.main()] ERROR BankAccount:52 - Insufficient funds: requested 2000.0, available 1600.0
+2026-04-20 17:09:43 [com.example.Main.main()] WARN  BankAccount:28 - Invalid input: amount -36.0 is negative
+2026-04-20 17:09:43 [com.example.Main.main()] FATAL BankAccount:75 - FATAL: System configuration error or database connection failure!
+2026-04-20 17:10:02 [com.example.Main.main()] DEBUG BankAccount:20 - BankAccount initialized with balance: 1000.0
+2026-04-20 17:10:02 [com.example.Main.main()] DEBUG Customer:20 - Customer created: name=batman@gotham.com email={}Batman
+2026-04-20 17:10:02 [com.example.Main.main()] DEBUG Customer:36 - Attempting to extract email
+2026-04-20 17:10:02 [com.example.Main.main()] DEBUG BankAccount:36 - Deposit - Pre-balance: 1000.0, Post-balance: 1700.0
+2026-04-20 17:10:02 [com.example.Main.main()] INFO  BankAccount:37 - Successfully deposited 700.0. New balance=1700.0
+2026-04-20 17:10:02 [com.example.Main.main()] DEBUG BankAccount:60 - Withdraw - Pre-balance: 1700.0, Post-balance: 1600.0
+2026-04-20 17:10:02 [com.example.Main.main()] INFO  BankAccount:61 - Successfully withdrew 100.0. New balance=1600.0
+2026-04-20 17:10:02 [com.example.Main.main()] ERROR BankAccount:52 - Insufficient funds: requested 2000.0, available 1600.0
+2026-04-20 17:10:02 [com.example.Main.main()] WARN  BankAccount:28 - Invalid input: amount -36.0 is negative
+2026-04-20 17:10:02 [com.example.Main.main()] FATAL BankAccount:75 - FATAL: System configuration error or database connection failure!
+2026-04-20 17:13:31 [com.example.Main.main()] DEBUG BankAccount:20 - BankAccount initialized with balance: 1000.0
+2026-04-20 17:13:31 [com.example.Main.main()] DEBUG Customer:20 - Customer created: name=batman@gotham.com email={}Batman
+2026-04-20 17:13:31 [com.example.Main.main()] DEBUG Customer:36 - Attempting to extract email
+2026-04-20 17:13:31 [com.example.Main.main()] DEBUG BankAccount:36 - Deposit - Pre-balance: 1000.0, Post-balance: 1700.0
+2026-04-20 17:13:31 [com.example.Main.main()] INFO  BankAccount:37 - Successfully deposited 700.0. New balance=1700.0
+2026-04-20 17:13:31 [com.example.Main.main()] DEBUG BankAccount:60 - Withdraw - Pre-balance: 1700.0, Post-balance: 1600.0
+2026-04-20 17:13:31 [com.example.Main.main()] INFO  BankAccount:61 - Successfully withdrew 100.0. New balance=1600.0
+2026-04-20 17:13:31 [com.example.Main.main()] ERROR BankAccount:52 - Insufficient funds: requested 2000.0, available 1600.0
+2026-04-20 17:13:31 [com.example.Main.main()] WARN  BankAccount:28 - Invalid input: amount -36.0 is negative
+2026-04-20 17:13:31 [com.example.Main.main()] FATAL BankAccount:75 - FATAL: System configuration error or database connection failure!
+2026-04-20 17:15:35 [com.example.Main.main()] DEBUG BankAccount:20 - BankAccount initialized with balance: 1000.0
+2026-04-20 17:15:35 [com.example.Main.main()] DEBUG Customer:20 - Customer created: name=batman@gotham.com email={}Batman
+2026-04-20 17:15:35 [com.example.Main.main()] DEBUG Customer:36 - Attempting to extract email
+2026-04-20 17:15:35 [com.example.Main.main()] DEBUG BankAccount:36 - Deposit - Pre-balance: 1000.0, Post-balance: 1700.0
+2026-04-20 17:15:35 [com.example.Main.main()] INFO  BankAccount:37 - Successfully deposited 700.0. New balance=1700.0
+2026-04-20 17:15:35 [com.example.Main.main()] DEBUG BankAccount:60 - Withdraw - Pre-balance: 1700.0, Post-balance: 1600.0
+2026-04-20 17:15:35 [com.example.Main.main()] INFO  BankAccount:61 - Successfully withdrew 100.0. New balance=1600.0
+2026-04-20 17:15:35 [com.example.Main.main()] ERROR BankAccount:52 - Insufficient funds: requested 2000.0, available 1600.0
+2026-04-20 17:15:35 [com.example.Main.main()] WARN  BankAccount:28 - Invalid input: amount -36.0 is negative
+2026-04-20 17:15:35 [com.example.Main.main()] FATAL BankAccount:75 - FATAL: System configuration error or database connection failure!
+2026-04-20 17:18:31 [com.example.Main.main()] DEBUG BankAccount:20 - BankAccount initialized with balance: 1000.0
+2026-04-20 17:18:31 [com.example.Main.main()] DEBUG Customer:20 - Customer created: name=batman@gotham.com email={}Batman
+2026-04-20 17:18:31 [com.example.Main.main()] DEBUG Customer:36 - Attempting to extract email
+2026-04-20 17:18:31 [com.example.Main.main()] DEBUG BankAccount:36 - Deposit - Pre-balance: 1000.0, Post-balance: 1700.0
+2026-04-20 17:18:31 [com.example.Main.main()] INFO  BankAccount:37 - Successfully deposited 700.0. New balance=1700.0
+2026-04-20 17:18:31 [com.example.Main.main()] DEBUG BankAccount:60 - Withdraw - Pre-balance: 1700.0, Post-balance: 1600.0
+2026-04-20 17:18:31 [com.example.Main.main()] INFO  BankAccount:61 - Successfully withdrew 100.0. New balance=1600.0
+2026-04-20 17:18:31 [com.example.Main.main()] ERROR BankAccount:52 - Insufficient funds: requested 2000.0, available 1600.0
+2026-04-20 17:18:31 [com.example.Main.main()] WARN  BankAccount:28 - Invalid input: amount -36.0 is negative
+2026-04-20 17:18:31 [com.example.Main.main()] FATAL BankAccount:75 - FATAL: System configuration error or database connection failure!
+2026-04-20 17:53:19 [com.example.Main.main()] DEBUG BankAccount:20 - BankAccount initialized with balance: 1000.0
+2026-04-20 17:53:19 [com.example.Main.main()] DEBUG Customer:20 - Customer created: name=batman@gotham.com email={}Batman
+2026-04-20 17:53:19 [com.example.Main.main()] DEBUG Customer:36 - Attempting to extract email
+2026-04-20 17:53:19 [com.example.Main.main()] DEBUG BankAccount:36 - Deposit - Pre-balance: 1000.0, Post-balance: 1700.0
+2026-04-20 17:53:20 [com.example.Main.main()] INFO  BankAccount:37 - Successfully deposited 700.0. New balance=1700.0
+2026-04-20 17:53:20 [com.example.Main.main()] DEBUG BankAccount:60 - Withdraw - Pre-balance: 1700.0, Post-balance: 1600.0
+2026-04-20 17:53:20 [com.example.Main.main()] INFO  BankAccount:61 - Successfully withdrew 100.0. New balance=1600.0
+2026-04-20 17:53:20 [com.example.Main.main()] ERROR BankAccount:52 - Insufficient funds: requested 2000.0, available 1600.0
+2026-04-20 17:53:20 [com.example.Main.main()] WARN  BankAccount:28 - Invalid input: amount -36.0 is negative
+2026-04-20 17:53:20 [com.example.Main.main()] FATAL BankAccount:75 - FATAL: System configuration error or database connection failure!
+2026-04-20 17:55:19 [com.example.Main.main()] DEBUG BankAccount:20 - BankAccount initialized with balance: 1000.0
+2026-04-20 17:55:19 [com.example.Main.main()] DEBUG Customer:20 - Customer created: name=batman@gotham.com email={}Batman
+2026-04-20 17:55:19 [com.example.Main.main()] DEBUG Customer:36 - Attempting to extract email
+2026-04-20 17:55:19 [com.example.Main.main()] DEBUG BankAccount:36 - Deposit - Pre-balance: 1000.0, Post-balance: 1700.0
+2026-04-20 17:55:19 [com.example.Main.main()] INFO  BankAccount:37 - Successfully deposited 700.0. New balance=1700.0
+2026-04-20 17:55:19 [com.example.Main.main()] DEBUG BankAccount:60 - Withdraw - Pre-balance: 1700.0, Post-balance: 1600.0
+2026-04-20 17:55:19 [com.example.Main.main()] INFO  BankAccount:61 - Successfully withdrew 100.0. New balance=1600.0
+2026-04-20 17:55:19 [com.example.Main.main()] ERROR BankAccount:52 - Insufficient funds: requested 2000.0, available 1600.0
+2026-04-20 17:55:19 [com.example.Main.main()] WARN  BankAccount:28 - Invalid input: amount -36.0 is negative
+2026-04-20 17:55:19 [com.example.Main.main()] FATAL BankAccount:75 - FATAL: System configuration error or database connection failure!
